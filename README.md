@@ -32,8 +32,23 @@ Desenvolver uma aplicação que permita capturar métricas-chave do processo de 
 
 ---
 
+📚 Bibliografia / Recursos Técnicos
+Accelerate – Nicole Forsgren, Jez Humble, Gene Kim
+[The DevOps Handbook]
+[Scrum Metrics for Hyperproductive Teams – Jeff Sutherland]
+[Documentação oficial: GitHub, Jira, SonarQube, Airflow, React, Flask]
+
+---
+
+🧠 Status do Projeto
+✅ Em fase de definição de arquitetura e setup do ambiente
+🔄 Desenvolvimento dos módulos de extração de dados
+📊 Construção do dashboard
+
 ## ⚙️ Como Executar o Projeto (quando estiver pronto)
 
 ### Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/metrics-observability-app.git
+
+
